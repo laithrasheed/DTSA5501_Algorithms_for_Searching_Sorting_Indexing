@@ -1,4 +1,4 @@
-# Data_Structures_and_Algorithms
+# Data_Structures_and_Algorithms/ Al
 This repository is to reflect the learning outcomes of the MS-DS Pathway Specialization named with ' Data Science Foundations: Data Structures and Algorithms'.
 
 This Specialization is consisting of three main courses as follows: 
